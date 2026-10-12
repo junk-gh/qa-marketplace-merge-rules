@@ -1,0 +1,17 @@
+{
+  "name": "qa-fixture-marketplace",
+  "owner": {
+    "name": "tessl-dev"
+  },
+  "plugins": [
+    {
+      "author": {
+        "name": "Fixture Author"
+      },
+      "description": "Minimal plugin fixture with a single skill",
+      "name": "small-plugin",
+      "source": "./plugins/small-plugin",
+      "version": "2.0.0"
+    }
+  ]
+}
