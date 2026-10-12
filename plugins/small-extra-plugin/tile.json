@@ -1,0 +1,11 @@
+{
+  "name": "mkt-fixtures/small-extra-plugin",
+  "version": "1.0.0",
+  "summary": "Minimal plugin fixture used as a managed-extra dependency",
+  "skills": {
+    "wave": {
+      "path": "skills/wave/SKILL.md"
+    }
+  },
+  "private": false
+}
