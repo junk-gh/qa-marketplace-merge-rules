@@ -1,0 +1,9 @@
+{
+  "name": "mkt-fixtures/small-extra-plugin",
+  "version": "1.0.0",
+  "description": "Minimal plugin fixture used as a managed-extra dependency",
+  "skills": "./skills/",
+  "author": {
+    "name": "Fixture Author"
+  }
+}
