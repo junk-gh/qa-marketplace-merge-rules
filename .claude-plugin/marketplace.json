@@ -1,26 +1,28 @@
 {
-  "name": "qa-fixture-marketplace",
+  "name": "tessl-tessl-dev",
   "owner": {
     "name": "tessl-dev"
   },
   "plugins": [
     {
       "author": {
-        "name": "Fixture Author"
+        "email": "sahil@tessl.io",
+        "name": "demo-user"
       },
-      "description": "Minimal plugin fixture used as a managed-extra dependency",
-      "name": "small-extra-plugin",
-      "source": "./plugins/small-extra-plugin",
-      "version": "1.0.0"
+      "description": "QA fixture for SCL-4719 plugin removal. Use when testing archive and delete of plugins.",
+      "name": "qa-scl4719-del-4805",
+      "source": "./plugins/qa-scl4719-del-4805",
+      "version": "0.1.0"
     },
     {
       "author": {
-        "name": "Fixture Author"
+        "email": "sahil@tessl.io",
+        "name": "demo-user"
       },
-      "description": "Minimal plugin fixture with a single skill",
-      "name": "small-plugin",
-      "source": "./plugins/small-plugin",
-      "version": "2.0.0"
+      "description": "QA fixture for SCL-4719 plugin removal. Use when testing archive and delete of plugins.",
+      "name": "qa-scl4719-del-fresh",
+      "source": "./plugins/qa-scl4719-del-fresh",
+      "version": "0.1.0"
     }
   ]
 }
