@@ -1,8 +1,0 @@
-{
-  "name": "sahildmk/qa-scl4719-del-4805",
-  "description": "QA fixture for SCL-4719 plugin removal. Use when testing archive and delete of plugins.",
-  "skills": [
-    "."
-  ],
-  "version": "0.1.0"
-}
